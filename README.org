@@ -1,0 +1,10 @@
+* swank-client
+
+Common Lisp implementation of a Slime / Swank client.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/brown/swank-client.git   |
+| commit  | 5586517  |
+| systems | swank-client |
+|---------+-------------------------------------------|
+
